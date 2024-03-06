@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{FD198A59-4C00-42EE-D196-EFA81DA11045}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Fighter_Proto",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
